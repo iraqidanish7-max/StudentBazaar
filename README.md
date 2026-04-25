@@ -40,7 +40,37 @@ StudentBazaar is an online campus marketplace where students can buy and sell pr
 
 ##  Screenshots
 
-(Add screenshots here — we will do next)
+###  Home Page
+![Home](screenshots/home.png)
+
+###  Authentication
+![Login](screenshots/login.png)
+![Register](screenshots/register.png)
+
+### Product Browsing
+![Category](screenshots/categoryproduct1.png)
+![Category 2](screenshots/categoryproduct2.png)
+![Buy Product](screenshots/buyproduct1.png)
+![Buy Product 2](screenshots/buyproduct2.png)
+
+###  Cart & Purchase Flow
+![Cart](screenshots/cart1.png)
+![Cart 2](screenshots/cart2.png)
+![OTP](screenshots/otp.png)
+![Payment](screenshots/paymentdetails.png)
+
+###  Selling & Listings
+![Sell Product](screenshots/sellproduct.png)
+![My Listed Products](screenshots/mylistedproduct.png)
+
+###  Dashboard
+![User Dashboard](screenshots/dashboar1.png)
+![User Dashboard 2](screenshots/dashboard2.png)
+
+###  Admin Panel
+![Admin Dashboard](screenshots/admindashboard1.png)
+![Admin Dashboard 2](screenshots/admindashboard2.png)
+![Admin Dashboard 3](screenshots/admindashboard3.png)
 
 ---
 
